@@ -16,6 +16,6 @@ This repository contains the code and analysis for scraping and analyzing data f
   + Filtered the Top 10 products with the highest discounts.
   + Filtered the top 5 products with the highest prices.
   + Counted the number of products by supplier.
+![Dataset Hasaki Visualization](https://github.com/Akina1709/hasaki-web-data-analysis/assets/86033325/631ccbfb-f1af-4b41-918b-2bc9595bd7cf)
 
-![Data Visualization](https://drive.google.com/file/d/1Gn8k-B9MHzStzwYp1oynFiiNiRoOShGL/view?usp=drive_link)
 
